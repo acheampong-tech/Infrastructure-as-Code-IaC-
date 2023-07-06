@@ -5,6 +5,6 @@ resource "aws_instance" "web" {
 
   tags = {
     Name = "DEMO-TERRAFROM"
-    Purpose = "Jenkins Demo"
+    Purpose = "TESTING-ENVIRONMENT"
   }
 }
